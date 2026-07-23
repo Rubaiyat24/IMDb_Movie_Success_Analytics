@@ -36,6 +36,16 @@ The objective is to answer real business questions that can help movie studios a
 - Genre analysis
 - Movie success prediction using Machine Learning
 
+## Key Insights
+
+This analysis uncovered several business insights from the IMDb/TMDB movie dataset:
+- Audience ratings vary significantly across movie genres, helping identify genres that consistently receive stronger audience appreciation.
+- Commercial success is not always associated with higher audience ratings. Some movies generated substantial revenue despite receiving average or below-average ratings.
+- Return on Investment (ROI) provides a better measure of financial success than revenue alone by considering production budget alongside earnings.
+- Movies with higher audience engagement (measured by vote count and popularity) are not always the highest-rated titles.
+- Movie ratings have changed over time, highlighting trends in audience preferences across different release years.
+- Runtime alone does not guarantee better audience ratings, indicating that storytelling and content quality are more important than movie length.
+- The machine learning model demonstrates how historical movie attributes can be used to predict the likelihood of movie success.
 
 ## Technologies Used
 
